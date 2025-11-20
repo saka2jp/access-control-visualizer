@@ -1,0 +1,5 @@
+{
+  "name": "Access Control Visualizer",
+  "description": "An interactive demonstration of RBAC, ABAC, ReBAC, and PBAC access control models using visual diagrams and live logic toggles.",
+  "requestFramePermissions": []
+}
